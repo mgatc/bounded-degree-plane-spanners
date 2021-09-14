@@ -6,4 +6,4 @@ A technical description and documentation of this tool is included in the tool i
 
 This work is a part of the following paper:
 
-Fred Anderson, Anirban Ghosh, Matthew Graham, Lucas Mougeot, David Wisnosky, An Interactive Tool for Experimenting with Bounded-Degree Plane Geometric Spanners, SoCG 21.
+Fred Anderson, Anirban Ghosh, Matthew Graham, Lucas Mougeot, David Wisnosky, An Interactive Tool for Experimenting with Bounded-Degree Plane Geometric Spanners, SoCG 21. https://doi.org/10.4230/LIPIcs.SoCG.2021.61
